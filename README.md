@@ -44,8 +44,6 @@ npm run dev
 
 O servidor estará ativo em: http://localhost:3000.
 
-## 📂 Estrutura do Projeto
-
 ### 📂 Estrutura do Projeto
 
 | Componente           | Descrição                                                                         |
